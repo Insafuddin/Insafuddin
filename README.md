@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Insafuddin](https://github.com/Insafuddin)
 
-- 💬 Ask me about **MERAN**
+- 💬 Ask me about **MERN**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
