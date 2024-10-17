@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/coming soon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="coming soon" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/coming soon](https://www.linkedin.com/in/insaf-uddin-7205a4333)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="coming soon" height="30" width="40" /></a>
 <a href="https://fb.com/insaf uddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="insaf uddin" height="30" width="40" /></a>
 <a href="https://instagram.com/mr.insafuddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.insafuddin" height="30" width="40" /></a>
 <a href="https://hashnode.com/insaf.hashnode.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="insaf.hashnode.dev" height="30" width="40" /></a>
