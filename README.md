@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Insaf Uddin</h1>
-<h3 align="center">A passionate web developer from Bangladesh</h3>
+<h3 align="center">A passionate web developer from Bangladeshsh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=insafuddin&label=Profile%20views&color=0e75b6&style=flat" alt="insafuddin" /> </p>
 
@@ -7,16 +7,18 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Insafuddin](https://github.com/Insafuddin)
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **MERAN**
+
+- 📫 How to reach me **insafuddinbd@gamil.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/coming soon](https://www.linkedin.com/in/insaf-uddin-7205a4333)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="coming soon" height="30" width="40" /></a>
-<a href="https://fb.com/insaf uddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="insaf uddin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/insafuddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="insafuddin" height="30" width="40" /></a>
+<a href="https://fb.com/insafuddinbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="insafuddinbd" height="30" width="40" /></a>
 <a href="https://instagram.com/mr.insafuddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.insafuddin" height="30" width="40" /></a>
-<a href="https://hashnode.com/insaf.hashnode.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="insaf.hashnode.dev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/insafuddinahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="insafuddinahmed" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/coming soon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="coming soon" height="30" width="40" /></a>
+<a href="https://hashnode.com/@insafuddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@insafuddin" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@insafuddinahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@insafuddinahmed" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/insafuddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="insafuddin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
