@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Insaf Uddin</h1>
-<h3 align="center">A passionate web developer from Bangladeshsh</h3>
+<h3 align="center">A passionate App developer from Bangladeshsh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=insafuddin&label=Profile%20views&color=0e75b6&style=flat" alt="insafuddin" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, React Native**
+- 🌱 I’m currently learning **Java , Xml, Php, JavaScript, React Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Insafuddin](https://github.com/Insafuddin)
 
-- 💬 Ask me about **MERAN**
+- 💬 Ask me about **Android App Devlpment , MERAN**
 
 - 📫 How to reach me **insafuddinbd@gamil.com**
 
